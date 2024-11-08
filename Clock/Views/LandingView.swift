@@ -30,6 +30,13 @@ struct LandingView: View {
                     Text("Stopwatch")
                 }
                 .tag(3)
+            
+            Timers()
+                .tabItem {
+                    Image(systemName: "timer")
+                    Text("Timers")
+                }
+                .tag(4)
         }
         .preferredColorScheme(.dark)
         .tint(.orange)

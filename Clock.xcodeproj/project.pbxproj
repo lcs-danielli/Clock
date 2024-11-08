@@ -14,6 +14,7 @@
 		65E18A312CDE526F00353FC4 /* WorldClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E18A302CDE526F00353FC4 /* WorldClockView.swift */; };
 		65E18A332CDE528800353FC4 /* AlarmsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E18A322CDE528700353FC4 /* AlarmsView.swift */; };
 		65E18A352CDE529600353FC4 /* StopwatchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E18A342CDE529600353FC4 /* StopwatchView.swift */; };
+		65E18A422CDE569E00353FC4 /* Timers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E18A412CDE569E00353FC4 /* Timers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		65E18A302CDE526F00353FC4 /* WorldClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldClockView.swift; sourceTree = "<group>"; };
 		65E18A322CDE528700353FC4 /* AlarmsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmsView.swift; sourceTree = "<group>"; };
 		65E18A342CDE529600353FC4 /* StopwatchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopwatchView.swift; sourceTree = "<group>"; };
+		65E18A412CDE569E00353FC4 /* Timers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				65E18A302CDE526F00353FC4 /* WorldClockView.swift */,
 				65E18A322CDE528700353FC4 /* AlarmsView.swift */,
 				65E18A342CDE529600353FC4 /* StopwatchView.swift */,
+				65E18A412CDE569E00353FC4 /* Timers.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65E18A2D2CDE512500353FC4 /* ClockApp.swift in Sources */,
+				65E18A422CDE569E00353FC4 /* Timers.swift in Sources */,
 				65E18A312CDE526F00353FC4 /* WorldClockView.swift in Sources */,
 				65E18A332CDE528800353FC4 /* AlarmsView.swift in Sources */,
 				65E18A352CDE529600353FC4 /* StopwatchView.swift in Sources */,
